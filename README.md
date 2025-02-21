@@ -1,4 +1,4 @@
-![Screenshot 2025-02-21 200638](https://github.com/user-attachments/assets/6b2038cd-1f2e-4b72-9064-812aad50ee7b)Linux Terminal Commands
+Linux Terminal Commands
 
 1. ls command
 The ls command lists the content of a folder, including files and directories.
